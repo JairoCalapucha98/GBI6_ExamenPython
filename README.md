@@ -1,2 +1,2 @@
 # GBI6_ExamenPython
-Aquí se haras los ejercicios del Examen 
+Aquí se resolverán los ejercicios del Examen 
