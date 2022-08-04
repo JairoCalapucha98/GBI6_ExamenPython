@@ -1,4 +1,37 @@
 # GBI6_ExamenPython
+<img src="https://ecogenomics.github.io/CheckM/img/checkm.png" width=300 height=240 />
+ <center><h2> INGENIERÍA EN BIOTECNOLOGÍA</h2></center>
+
+<img src="https://www.ikiam.edu.ec/img/logo-ikiam-grey.png" width=400 height=300 />
+
+# <center><h1 style="color:orange">GBI6 - BIOINFORMÁTICA</h1></center>
+
+# <center><h1 style="color:orange">EXAMEN PARCIAL PYTHON</h1></center>
+
+<center><h3>GBI6-2021II: BIOINFORMÁTICA<center><h3>
+
+<center><h3>Apellidos, Nombres: Jairo Calapucha Alvarado<center><h3>
+
+<center><h4>03-08-2022<center><h4>
+## datos personales:
+
+- Nombres y Apillidos: Jairo Livardo Calapucha Alvarado
+- Sexo: Masculino
+- Edad: 23 años
+- Nacionalidad: Indígena
+- Residencia: Tena 
+
+## características de su computador:
+
+| Características del computador | | |
+| :- | -: | :-: |
+| Nombre del dispositivo: | IKIAM365JC |
+| Procesador: | Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz   1.99 GHz |
+| RAM instalada: | 8,00 GB|
+| Identificador de dispositivo: | 12E25A8B-54F5-4DE5-BE4F-0E769C07FE17 |
+| Id. del producto: | 00330-80000-00000-AA815 |
+| Tipo de sistema	Sistema operativo: | 64 bits, procesador basado en x64 |
+| Lápiz y entrada táctil: | La entrada táctil o manuscrita no está disponible para esta pantalla |
 ## Aquí se resolverán los ejercicios del Examen 
 # Ejercicio 1 [2 puntos] Jairo utilizo estos códigos
 ## Se usaron los siguientes códigos 
