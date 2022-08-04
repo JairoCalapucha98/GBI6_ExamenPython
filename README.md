@@ -27,7 +27,6 @@
 ------------------------------------------------------------------------------------------
 # Ejercicio 5 Jairo utilizo estos códigos
 ## Se usaron lso siguientes códigos 
-# Escriba aquí su código para el ejercicio 6
 #PUDE LLEGAr SOLO HASTA EL CUARTO PASO
 - from Bio import Phylo
 - from Bio import SeqIO
